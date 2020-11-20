@@ -1,0 +1,12 @@
+/Users/harpatel/Documents/publixDemo/bin/Debug/netcoreapp3.1/publixDemo.deps.json
+/Users/harpatel/Documents/publixDemo/bin/Debug/netcoreapp3.1/publixDemo.runtimeconfig.json
+/Users/harpatel/Documents/publixDemo/bin/Debug/netcoreapp3.1/publixDemo.runtimeconfig.dev.json
+/Users/harpatel/Documents/publixDemo/bin/Debug/netcoreapp3.1/publixDemo.dll
+/Users/harpatel/Documents/publixDemo/bin/Debug/netcoreapp3.1/publixDemo.pdb
+/Users/harpatel/Documents/publixDemo/obj/Debug/netcoreapp3.1/publixDemo.csprojAssemblyReference.cache
+/Users/harpatel/Documents/publixDemo/obj/Debug/netcoreapp3.1/publixDemo.AssemblyInfoInputs.cache
+/Users/harpatel/Documents/publixDemo/obj/Debug/netcoreapp3.1/publixDemo.AssemblyInfo.cs
+/Users/harpatel/Documents/publixDemo/obj/Debug/netcoreapp3.1/publixDemo.csproj.CoreCompileInputs.cache
+/Users/harpatel/Documents/publixDemo/obj/Debug/netcoreapp3.1/publixDemo.dll
+/Users/harpatel/Documents/publixDemo/obj/Debug/netcoreapp3.1/publixDemo.pdb
+/Users/harpatel/Documents/publixDemo/obj/Debug/netcoreapp3.1/publixDemo.genruntimeconfig.cache
